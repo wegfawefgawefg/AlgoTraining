@@ -1,2 +1,2 @@
-# codegolfing
+# AlgoTraining
 random algo stuff
